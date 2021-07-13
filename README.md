@@ -18,22 +18,28 @@
 https://hub.docker.com/r/prom/prometheus
 ```
 
-### cAdvisor
-
-```
-https://hub.docker.com/r/google/cadvisor
-```
-
 ### Node Exporter
 
 ```
 https://hub.docker.com/r/prom/node-exporter
 ```
 
+### cAdvisor
+
+```
+https://hub.docker.com/r/google/cadvisor
+```
+
 ### Postgres Exporter
 
 ```
 https://hub.docker.com/r/wrouesnel/postgres_exporter
+```
+
+### DCGM
+
+```
+https://hub.docker.com/r/nvidia/dcgm-exporter
 ```
 
 # Docker Build
