@@ -12,6 +12,10 @@
 
 ## Prerequisites
 
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 ### * Prometheus
 
 ```
