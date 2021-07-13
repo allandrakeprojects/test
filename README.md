@@ -1,5 +1,5 @@
 ## Getting Started
-### Installation (temp Docker Hub repo)
+### Installation (temp docker hub repo)
 
 1. Pull image
    ```
