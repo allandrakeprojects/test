@@ -24,16 +24,16 @@ https://hub.docker.com/r/prom/prometheus
 https://hub.docker.com/r/prom/node-exporter
 ```
 
-### cAdvisor
-
-```
-https://hub.docker.com/r/google/cadvisor
-```
-
 ### Postgres Exporter
 
 ```
 https://hub.docker.com/r/wrouesnel/postgres_exporter
+```
+
+### cAdvisor
+
+```
+https://hub.docker.com/r/google/cadvisor
 ```
 
 ### DCGM
