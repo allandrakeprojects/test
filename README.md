@@ -7,7 +7,7 @@
    ```
 2. Run image
    ```
-   docker run -d -p 8080:80 --name samsungui drakedev/samsungui:v0.0.1
+   docker run -d -p {PORT}:80 --name samsungui drakedev/samsungui:v0.0.1
    ```
 
 # Prerequisites
