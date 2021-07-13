@@ -18,25 +18,25 @@
 https://hub.docker.com/r/prom/prometheus
 ```
 
-### Node Exporter
+* Node Exporter
 
 ```
 https://hub.docker.com/r/prom/node-exporter
 ```
 
-### Postgres Exporter
+* Postgres Exporter
 
 ```
 https://hub.docker.com/r/wrouesnel/postgres_exporter
 ```
 
-### cAdvisor
+* cAdvisor
 
 ```
 https://hub.docker.com/r/google/cadvisor
 ```
 
-### DCGM
+* DCGM
 
 ```
 https://hub.docker.com/r/nvidia/dcgm-exporter
