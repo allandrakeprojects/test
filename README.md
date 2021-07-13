@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-* npm
+## * npm
   ```sh
   npm install npm@latest -g
   ```
