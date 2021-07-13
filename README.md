@@ -9,6 +9,7 @@
    ```
    docker run -d -p 8080:80 --name samsungui drakedev/samsungui:v0.0.1
    ```
+3. Configuration of data source
 
 ## Prerequisites
 
