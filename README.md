@@ -34,6 +34,20 @@ https://hub.docker.com/r/drakedev/samsungui/tags
 
 # Prometheus Targets
 
-### cadvisor
-### node_exporter
-### postgres_exporter
+### cAdvisor
+
+```
+https://hub.docker.com/r/google/cadvisor
+```
+
+### Node Exporter
+
+```
+https://hub.docker.com/r/prom/node-exporter
+```
+
+### Postgres Exporter
+
+```
+https://hub.docker.com/r/wrouesnel/postgres_exporter
+```
