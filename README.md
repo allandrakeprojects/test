@@ -12,11 +12,7 @@
 
 ## Prerequisites
 
-## * npm
-  ```sh
-  npm install npm@latest -g
-  ```
-### * Prometheus
+* Prometheus
 
 ```
 https://hub.docker.com/r/prom/prometheus
