@@ -7,7 +7,7 @@
    ```
 2. Run image
    ```
-   docker run -d -p {PORT}:80 --name samsungui drakedev/samsungui:v0.0.1
+   docker run -d -p 8080:80 --name samsungui drakedev/samsungui:v0.0.1
    ```
 
 # Prerequisites
@@ -40,38 +40,4 @@ https://hub.docker.com/r/wrouesnel/postgres_exporter
 
 ```
 https://hub.docker.com/r/nvidia/dcgm-exporter
-```
-
-# Docker Build
-
-Create a docker repository on Docker Hub
-
-### Build image and name it
-
-```
-docker build --tag samsungui .
-```
-
-### Login to Docker Hub
-
-```
-docker login
-```
-
-### Tag the image
-
-```
-docker tag samsungui {DOCKER_USERNAME}/samsungui:1.0
-```
-
-### Push the image to Docker Hub repository
-
-```
-docker push {DOCKER_USERNAME}/samsungui:1.0
-```
-
-### Verify repository exists with tag
-
-```
-https://hub.docker.com/r/drakedev/samsungui/tags
 ```
