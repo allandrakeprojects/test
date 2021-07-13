@@ -12,7 +12,7 @@
 
 ## Prerequisites
 
-### Prometheus
+### * Prometheus
 
 ```
 https://hub.docker.com/r/prom/prometheus
